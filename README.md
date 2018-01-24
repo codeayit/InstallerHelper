@@ -6,7 +6,7 @@
 	}
 	// 在App目录 build.gradle 添加依赖
   	dependencies {
-	        compile 'com.github.1053452188:InstallHelper:5463927c6a'
+	        compile 'com.github.1053452188:InstallerHelper:a69a5ba798'
 	}
 
   
